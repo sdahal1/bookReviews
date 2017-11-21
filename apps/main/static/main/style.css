@@ -1,0 +1,7 @@
+.half-size {
+    display: inline-block;
+    background-color: lightblue;
+    width: 25%;
+    vertical-align: top;
+
+}
